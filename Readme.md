@@ -3,6 +3,8 @@
 
 This is a model from cotk, click here to our [main repo](https://github.com/thu-coai/cotk).
 
+This is a repo to test travis.
+
 # Seq2Seq (PyTorch)
 
 Seq2seq with attention mechanism is a basic model for single turn dialog. In addition, batch normalization and dropout has been applied. You can also choose beamsearch, greedy, random sample, random sample from top k when decoding.
